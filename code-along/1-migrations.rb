@@ -26,3 +26,6 @@
 # - Add model and table for the Contact entity in our domain model
 
 # repeat steps 1-5 above.
+
+
+# rails generate model (in the terminal)

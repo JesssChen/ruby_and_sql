@@ -5,4 +5,21 @@
 
 # String Class
 
+favorite_food = "barbecue"
+
+puts favorite_food
+#look for class
+puts favorite_food.class
+#upcase
+puts favorite_food.upcase
+
+
 # String Methods
+class Dog
+    def speak #can define some functionality
+        puts "haha"
+    end
+end
+
+lucy=Dog.new
+lucy.speak
